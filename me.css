@@ -1,0 +1,133 @@
+*{padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+background-color: #fdf2e9;
+}
+
+#image1{
+    width: 31%;
+    height: 30%;
+    margin: 30px;
+}
+
+.Hero{
+    font-size: medium;
+    display: flex;
+    background-color: rgb(246, 246, 242);
+    margin: 30px;
+}
+.image2{
+    width: 80%;
+    height: 100%;
+    float: right;
+    margin-top: 30px;
+}
+.headline{
+    font-size: 80px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+.text{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-right: 80px;
+    float: left;
+}
+.button6{
+    padding: 7px;
+    background-color: rgb(236, 162, 89);
+    font-size:large;
+    color: white;
+    border-color: rgb(235, 162, 102);
+    border-radius: 1%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.button7{
+    padding: 5px;
+    background-color: white;
+    font-size: large;
+    color: black;
+    border-color: white;
+    border-radius: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 10px;
+    padding-right: 30px;
+    margin-top: 40px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.img1{
+    display: flex;
+    margin-right: 30px;
+    margin-bottom: 10px;
+
+}
+.button1{
+    padding-left: 70px;
+    padding-right: 15px;
+    border-color: transparent;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    border-right: 40px;
+}
+.button2{
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: transparent;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+.button3{
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: transparent;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+.button4{
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: transparent;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.button5{
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(223, 166, 86);
+    color: white;
+    border-color: rgb(221, 144, 43);
+    border-radius: 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-weight: bold;
+}
+.ABC{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
